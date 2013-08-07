@@ -7,6 +7,8 @@ This package is MIT Licensed. Do whatever you like with it but any responsibilit
 
 All rights to bootstrap-datepicker are with the original author
 
+See: http://www.eyecon.ro/bootstrap-datepicker/
+
 Example
 ============
 in handlebars template
