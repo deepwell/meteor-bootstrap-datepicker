@@ -2,7 +2,7 @@
   "name": "bootstrap-datepicker2",
   "description": "Meteor packaging of bootstrap-datepicker",
   "homepage": "https://github.com/deepwell/meteor-bootstrap-datepicker",
-  "author": "Mark Deepwell",
+  "author": "Mark Deepwell <mark@markdeepwell.com>",
   "version": "1.2.0",
   "git": "https://github.com/deepwell/meteor-bootstrap-datepicker.git",
   "packages": {}
