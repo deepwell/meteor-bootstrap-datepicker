@@ -16,3 +16,7 @@ in handlebars template
     Template.mytemplate.rendered = function() {
       this.$('.datepicker').datepicker();
     }
+
+in html
+
+     <input type="text" class="datepicker">
