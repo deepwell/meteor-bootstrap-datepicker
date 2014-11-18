@@ -14,5 +14,5 @@ Example
 in handlebars template
 
     Template.mytemplate.rendered = function() {
-      $('.datepicker').datepicker();
+      this.$('.datepicker').datepicker();
     }
